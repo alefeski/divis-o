@@ -21,3 +21,20 @@
 # stringnews=url[27:95]
 # print(newstrig)
 # print(stringnews)
+
+class Petcao:
+    
+    def __init__(self, nome, peso, raça):
+        print('ficha do seu eu pet'.format(self))
+        self.__nome = nome
+        self.__peso = peso
+        self.__raça = raça
+
+def nome(self):
+    print('o nome do seu pet é {}'.format(self.__nome))
+
+def peso(self):
+    print('o peso do seu pet é {}'.format(self.__peso))
+
+def raça(self):
+    print('esse é a raça do seu pet {}'.format(self.__raça))
