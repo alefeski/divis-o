@@ -1,4 +1,4 @@
-# url='abcdfghi'
+.# url='abcdfghi'
 # print(url.find('c'))
 
 # url='cavalo locomotivo americano'
@@ -15,3 +15,9 @@
 # fruta=['melão','jaca','uva','abacaxi','morango']
 # fruta_vinho=('uva')
 # print(fruta_vinho)
+
+# url='Para ter sucesso, você deve eliminar dúvidas, aceitar desafios e rejeitar qualquer negatividade externa'
+# newstrig=url[0:16]
+# stringnews=url[27:95]
+# print(newstrig)
+# print(stringnews)
